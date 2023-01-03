@@ -2,6 +2,10 @@
 
 A simple load optimisation tool for Portal 2 on Linux.
 
+**This utility is obsolete. Its functionality is now part of [SourceAutoRecord].**
+
+[SourceAutoRecord]: https://github.com/p2sr/SourceAutoRecord
+
 ## Usage
 
 The library built, `pathmatch_cache.so`, should simply be injected into
